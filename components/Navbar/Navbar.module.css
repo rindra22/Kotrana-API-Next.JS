@@ -1,0 +1,11 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255 / 95%)!important;
+}
+.knavlink{
+    color: rgba(238, 238, 238, 0.95)!important;
+    text-decoration: none;
+    margin-left: 10px;
+}
+.knavlink:hover{
+    color: rgb(255 255 255 / 95%)!important;
+}
